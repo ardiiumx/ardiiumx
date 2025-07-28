@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @ardiiumx or Kate
-- 👀 I’m interested in programming, I work with C# and JS.
+- 👋 Hi, I’m Kate!
+- 👀 Dev - fully versed in React, C#, Lua and JavaScript
 - 🌱 I’m currently learning C++
-- 📫 You can reach me via @ardiiumx on Twitter, as well as Ardiium#8780 on Discord.
+- 📫 You can reach me via @katembrr on Twitter
 
 <!---
 ardiiumx/ardiiumx is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
